@@ -1,0 +1,5 @@
+C:\Users\vanoncini.18008\Desktop\c#\tris-form\client\tris-form\obj\Debug\tris-form.csprojAssemblyReference.cache
+C:\Users\vanoncini.18008\Desktop\c#\tris-form\client\tris-form\obj\Debug\tris_form.Form1.resources
+C:\Users\vanoncini.18008\Desktop\c#\tris-form\client\tris-form\obj\Debug\tris_form.Properties.Resources.resources
+C:\Users\vanoncini.18008\Desktop\c#\tris-form\client\tris-form\obj\Debug\tris-form.csproj.GenerateResource.cache
+C:\Users\vanoncini.18008\Desktop\c#\tris-form\client\tris-form\obj\Debug\tris-form.csproj.CoreCompileInputs.cache
